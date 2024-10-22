@@ -1,0 +1,13 @@
+ [
+      { "id": 1, "name": "Holiday Season Sale", "budget": 10000, "clicks": 150, "leads_generated": 40, "conversion_rate": 0.27 },
+      { "id": 2, "name": "Black Friday Special", "budget": 5000, "clicks": 200, "leads_generated": 50, "conversion_rate": 0.25 },
+      { "id": 3, "name": "New Year Promotion", "budget": 8000, "clicks": 180, "leads_generated": 30, "conversion_rate": 0.17 },
+      { "id": 4, "name": "Summer Discounts", "budget": 7000, "clicks": 120, "leads_generated": 25, "conversion_rate": 0.21 },
+      { "id": 5, "name": "Winter Flash Sale", "budget": 6000, "clicks": 160, "leads_generated": 35, "conversion_rate": 0.22 },
+      { "id": 6, "name": "Spring Clearance", "budget": 4000, "clicks": 90, "leads_generated": 20, "conversion_rate": 0.22 },
+      { "id": 7, "name": "Autumn Deal", "budget": 9000, "clicks": 210, "leads_generated": 60, "conversion_rate": 0.29 },
+      { "id": 8, "name": "Cyber Monday Blowout", "budget": 11000, "clicks": 250, "leads_generated": 80, "conversion_rate": 0.32 },
+      { "id": 9, "name": "Back to School Promo", "budget": 5500, "clicks": 130, "leads_generated": 40, "conversion_rate": 0.31 },
+      { "id": 10, "name": "Limited Time Offer", "budget": 3000, "clicks": 70, "leads_generated": 15, "conversion_rate": 0.21 }
+    ]
+ 

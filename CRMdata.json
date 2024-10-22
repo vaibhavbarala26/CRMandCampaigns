@@ -1,0 +1,12 @@
+ [
+      { "id": 1, "name": "John Doe", "email": "john.doe@example.com", "phone": "+1234567890", "status": "new" },
+      { "id": 2, "name": "Jane Smith", "email": "jane.smith@example.com", "phone": "+1987654321", "status": "contacted" },
+      { "id": 3, "name": "Michael Johnson", "email": "michael.j@example.com", "phone": "+1212121212", "status": "qualified" },
+      { "id": 4, "name": "Emily Davis", "email": "emily.davis@example.com", "phone": "+1313131313", "status": "closed" },
+      { "id": 5, "name": "David Brown", "email": "david.brown@example.com", "phone": "+1414141414", "status": "new" },
+      { "id": 6, "name": "Lisa White", "email": "lisa.white@example.com", "phone": "+1515151515", "status": "contacted" },
+      { "id": 7, "name": "Chris Green", "email": "chris.green@example.com", "phone": "+1616161616", "status": "qualified" },
+      { "id": 8, "name": "Patricia Blue", "email": "patricia.blue@example.com", "phone": "+1717171717", "status": "closed" },
+      { "id": 9, "name": "James Black", "email": "james.black@example.com", "phone": "+1818181818", "status": "new" },
+      { "id": 10, "name": "Sarah Yellow", "email": "sarah.yellow@example.com", "phone": "+1919191919", "status": "contacted" }
+    ]

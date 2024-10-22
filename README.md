@@ -24,6 +24,41 @@ npm install
 3.Run the application
 ```bash
 npm start
+{
+  "crm": {
+    "get": {
+      "endpoint": "/crm",
+      "description": "Fetches dummy CRM data from the CRMdata.js file.",
+      "response": [
+        {
+          "id": "1",
+          "name": "John Doe",
+          "status": "Lead"
+        }
+      ]
+    },
+    "save": {
+      "endpoint": "/savecrm",
+      "description": "Fetches CRM data and saves it to MongoDB.",
+      "response": {
+        "message": "CRM data saved successfully!",
+        "data": "..."
+      }
+    },
+    "report_csv": {
+      "endpoint": "/reportcrm/csv",
+      "description": "Generates a CSV report summarizing lead statuses.",
+      "response": "A downloadable CSV file named crm_report.csv."
+    },
+    "report_pdf": {
+      "endpoint": "/reportcrm/pdf",
+      "description": "Generates a PDF report summarizing lead statuses.",
+      "response": "A downloadable PDF file named crm_report.pdf."
+    }
+  }
+}
+
+npm start
 
 ##Environment Variables
 ```plaintext

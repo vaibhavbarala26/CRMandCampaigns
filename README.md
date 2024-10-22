@@ -1,1 +1,19 @@
+# CRM and Marketing Data API
+
+This API provides endpoints for managing and retrieving CRM and marketing data. It supports fetching, saving data to MongoDB, and generating reports in CSV and PDF formats.
+
+## Table of Contents
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [API Endpoints](#api-endpoints)
+- [Usage Examples](#usage-examples)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
 
